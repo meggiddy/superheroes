@@ -7,8 +7,8 @@ In this lab we are creating a Superhero API that shows superheroes and their pow
 Clone the repository and go into the cloned repo:
 
 ```console
-$ git clone git@github.com:meggiddy/megs-pizza.git
-$ cd megs-pizza
+$ git clone git@github.com:meggiddy/superheroes.git
+$ cd superheroes
 ```
 
 To set up the backend dependencies, from the root directory, run:
