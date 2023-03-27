@@ -1,6 +1,6 @@
 # SUPERHEROES 🦸🏽‍♀️🦸🏽‍♀️🦸🏽‍♀️
 
-In this lab we are creating a Restaurant API that shows superheroes and their powers.
+In this lab we are creating a Superhero API that shows superheroes and their powers.
 
 ## Instructions
 
